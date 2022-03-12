@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/99160c3518583eb5d8c0d.jpg",
   "description": "ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Huvaris/Aristocrax",
+  "repository": "https://github.com/sakshi444a/Aristocrax",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
