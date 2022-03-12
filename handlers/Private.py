@@ -14,8 +14,6 @@ async def start_(client: Client, message: Message):
         caption=f"""**ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ ɪs ᴛʜᴇ ɴᴇxᴛ ʟᴇᴠᴇʟ ᴏғ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛʜᴀᴛ ʜᴀs ʙᴇsᴛ ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀɴᴅ ᴛʜᴇ ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ sᴍᴀsʜ ᴛʜᴇᴍ ᴏғ ᴀʟʟ sᴇʀᴠᴇʀ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀss...
 
 🇴ᴡɴᴇʀ :- [Yᴀsʜ ʀᴀᴊ](https://t.me/give_up_to_god)
-🇸ᴜᴘᴘᴏʀᴛ 🇬ʀᴏᴜᴘ   » [Aʟᴇxᴀ Xᴅ Gʀᴏᴜᴘ](https://t.me/Alexa_xd_group)
-  
 
 ɪғ ʏᴏᴜ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴀɴᴅ ɪssᴜᴇ sᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇsᴇ ɪᴅ = [ʏᴀsʜ ʀᴀᴊ](https://t.me/give_up_to_god)**""",
     reply_markup=InlineKeyboardMarkup(
