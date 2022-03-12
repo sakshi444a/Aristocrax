@@ -15,10 +15,7 @@ async def start_(client: Client, message: Message):
 
 🇴ᴡɴᴇʀ :- [Yᴀsʜ ʀᴀᴊ](https://t.me/give_up_to_god)
 🇸ᴜᴘᴘᴏʀᴛ 🇬ʀᴏᴜᴘ   » [Aʟᴇxᴀ Xᴅ Gʀᴏᴜᴘ](https://t.me/Alexa_xd_group)
-🇩ɪsᴄᴜss 🇬ʀᴏᴜᴘ  » [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs Sᴜᴘᴘᴏʀᴛ](https://t.me/Demon_Support_Group)
-
-🇫ᴇᴍᴀʟᴇ 🇴ᴡɴᴇʀ  » [Sᴀᴋsʜɪ](https://t.me/Itzz_Aruu_babee)
-🇺ᴘᴅᴀᴛᴇ 🇨ʜᴀɴɴᴇʟ  » [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs](https://t.me/Demon_Creators)
+  
 
 ɪғ ʏᴏᴜ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴀɴᴅ ɪssᴜᴇ sᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇsᴇ ɪᴅ = [ʏᴀsʜ ʀᴀᴊ](https://t.me/give_up_to_god)**""",
     reply_markup=InlineKeyboardMarkup(
