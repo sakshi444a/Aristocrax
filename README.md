@@ -1,4 +1,5 @@
-# Aristocrax
+<h2 align="centre">🇦ristocrax 🇲ᴜsɪᴄ 🇧ᴏᴛ  </h2>
+
 ## ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ ɪs ᴛʜᴇ ɴᴇxᴛ ʟᴇᴠᴇʟ ᴏғ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛʜᴀᴛ ʜᴀs ʙᴇsᴛ ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀɴᴅ ᴛʜᴇ ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ sᴍᴀsʜ ᴛʜᴇᴍ ᴏғ ᴀʟʟ sᴇʀᴠᴇʀ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀss...
 
 <p align="center"><a href="https://t.me/Alexa_xd_group"><img src="https://telegra.ph/file/99160c3518583eb5d8c0d.jpg" width="400"></a></p>
